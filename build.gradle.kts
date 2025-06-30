@@ -33,7 +33,7 @@ dependencies {
 
     compileOnly("com.zaxxer:HikariCP:6.3.0")
     compileOnly("com.h2database:h2:2.3.232")
-    compileOnly("org.mariadb.jdbc:mariadb-java-client:3.5.3")
+    compileOnly("org.mariadb.jdbc:mariadb-java-client:3.5.4")
 }
 
 tasks {
